@@ -26,5 +26,5 @@ void make(int n)
 
 int main(int argc, const char * argv[])
 {
-    make(2);
+    make(2); /* n será tal que: 0 <n <10. */
 }
